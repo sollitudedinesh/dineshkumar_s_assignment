@@ -60,6 +60,5 @@ The dataset consists of three CSV files:
 To run the code and reproduce the analysis, clone this repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/your-username/customer-segmentation.git
-cd customer-segmentation
-pip install -r requirements.txt
+git clone https://github.com/sollitudedinesh/dineshkumar_s_assignment.git
+cd dineshkumar_s_assignment
